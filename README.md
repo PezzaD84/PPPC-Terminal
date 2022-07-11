@@ -1,4 +1,4 @@
-# PPPC-Terminal
+# PPPC Terminal
 
 PPPC Profile to give Terminal full access to macOS.
 
